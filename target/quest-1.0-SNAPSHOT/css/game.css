@@ -1,0 +1,15 @@
+body {
+    background: url("../img/kosmos.jpg");
+
+}
+body {
+
+    background: url("/img/kosmos.jpg");
+}
+body {
+    background-image: url("../img/kosmos.jpg");
+
+}
+.container {
+    background: url(../img/kosmos.jpg);
+}

@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="quest">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="quest.war" />
+  </artifact>
+</component>
